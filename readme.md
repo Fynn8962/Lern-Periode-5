@@ -19,7 +19,7 @@ Fynn Huber
   
 **3. Was wäre ein geeignetes Projekt für diese LP5?**
 
-  Ich möchte mich zuerst mit html und CSS vertraut machen und eine einfache Website gestalten um zuerst eine Grundidee zu bekommen von html. Als zweites Projekt würde ich dann gerne etwas Sinnvolles erstellen, heisst eine Website mit irgendwelchen Informationen über ein Thema.
+  Ich möchte mich zuerst mit html und CSS vertraut machen und eine einfache Website gestalten um zuerst eine Grundidee von html und CSS zu bekommen . Als zweites Projekt würde ich dann gerne etwas Sinnvolles erstellen, heisst eine Website mit irgendwelchen Informationen über ein Thema.
 
    &nbsp;
 
