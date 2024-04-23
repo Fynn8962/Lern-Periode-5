@@ -28,19 +28,35 @@ Fynn Huber
 ### 23.4.2024
 
 **Heute habe ich...**    
-zzzzzzz
+Mir angeschaut was ich mir in der letzten LP vorgenommen habe und aus dieser Information mir überlegt, wie ich dies am besten umsetzen kann. Ich habe mich für ein geeignetes Projekt entschieden und anschliessend die 4 Arbeitspackete für die nächste Sitzung erstellt. Drei der Vier Arbeitspackete handeln um html und CSS, da ich aber nicht weis wie gut ich im Modul 187 vorankomme durch weitere anstehende Tests, habe ich mich dafür entschieden ein Arbeitspaket zu erstellen um am Modul zu arbeiten. 
+
  &nbsp;
  
  &nbsp;
   
 ### 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Für den Abschluss (03.05) im Modul 187 die übrigen LA's LA0716, LA0717 fertig machen und die Dokumentation fertig Schreiben.
+- [ ] In Visual Studio Code erstes projekt erstellen (html file & CSS file erstellen) und Live-Erweiterung herunterladen.
+- [ ] Für die Website ein Titel, Untertitel und Text erstellen und diese mit hilfe von CSS verändern.
+- [ ] Eine Website (ohne Kontext) die gut aussieht (Schriftart, Hintergrund usw.) mit Titel, Untertiteln und Texten.
 
 &nbsp;
 
-**Heute habe ich...**
+**Heute habe ich...**   
+......
 
+ &nbsp;
+ 
+ &nbsp;
+  
+### 30.4.2024
 
+- [ ] ...
+- [ ] ...
+- [ ] ...
+- [ ] ...
+      
+&nbsp;
+
+**Heute habe ich...**  
