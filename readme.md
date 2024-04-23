@@ -5,8 +5,6 @@ Fynn Huber
 
 ## Grob-Planung
 
-&nbsp;
-
 **1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?**
 
   Mit meiner bisherigen Leistung an der BBB bin ich sehr zufrieden. In allen Modulen hatte ich bis jeztz eine gute Note. Besonders die Noten in den Modulen über C#      und SQL waren für mich wichtig.
