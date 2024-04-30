@@ -36,7 +36,7 @@ Mir angeschaut was ich mir in der letzten LP vorgenommen habe und aus dieser Inf
   
 ### 30.4.2024
 
-- [ ] Für den Abschluss (03.05) im Modul 187 die übrigen LA's LA0716, LA0717 fertig machen und die Dokumentation fertig Schreiben.
+- [ ] Für den Modulprüfung (03.05) im Modul 187 lernen. Die powerpoints nochmal durchgehen und wichtige Notitzen machen.
 - [ ] In Visual Studio Code erstes projekt erstellen (html file & CSS file erstellen) und Live-Erweiterung herunterladen.
 - [ ] Für die Website ein Titel, Untertitel und Text erstellen und diese mit hilfe von CSS verändern.
 - [ ] Eine Website (ohne Kontext) die gut aussieht (Schriftart, Hintergrund usw.) mit Titel, Untertiteln und Texten.
