@@ -1,0 +1,22 @@
+h1 {
+font-family:'Courier New', Courier, monospace;
+background-color:black;
+color:white
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: red;
+}
+#baureihen {
+    background-color: yellow;
+   font-family:'Courier New', Courier, monospace
+}
+
+.nonsense {
+background-color:dimgray;
+}
+
+#link{
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+}
