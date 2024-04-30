@@ -36,26 +36,26 @@ Mir angeschaut was ich mir in der letzten LP vorgenommen habe und aus dieser Inf
   
 ### 30.4.2024
 
-- [ ] Für den Modulprüfung (03.05) im Modul 187 lernen. Die powerpoints nochmal durchgehen und wichtige Notitzen machen.
-- [ ] In Visual Studio Code erstes projekt erstellen (html file & CSS file erstellen) und Live-Erweiterung herunterladen.
-- [ ] Für die Website ein Titel, Untertitel und Text erstellen und diese mit hilfe von CSS verändern.
+- [x] Für den Modulprüfung (03.05) im Modul 187 lernen. Die powerpoints nochmal durchgehen und wichtige Notitzen machen.
+- [x] In Visual Studio Code erstes projekt erstellen (html file & CSS file erstellen) und Live-Erweiterung herunterladen.
+- [x] Für die Website ein Titel, Untertitel und Text erstellen und diese mit hilfe von CSS verändern.
 - [ ] Eine Website (ohne Kontext) die gut aussieht (Schriftart, Hintergrund usw.) mit Titel, Untertiteln und Texten.
 
 &nbsp;
 
-**Heute habe ich...**   
-......
+**Heute habe ich...**              
+Als erstes habe ich für das Modul 187 die Themen Softwarelizensen und Dateisystem nochmal reptiert, da ich diese noch nicht so gut verinnerlicht hatte. Nach der Pause habe ich mein erstes Visual Stuido Code Projekt erstellt mit html und css files. Ich habe mich dann mit den Grundlagen von html beschäftigt und zuerst ein bischen rumprobiert und mit css die Hintergrundfarbe oder die Schriftfarbe verändert. Zum Schluss habe ich noch nachgeschaut wie man Bilder einfügt und habe dadurch noch ein Bild mit einem Link zu einer anderen Website hinzugefügt.
 
  &nbsp;
  
  &nbsp;
   
-### 30.4.2024
+### 07.05.2024
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Eine Website (ohne Kontext) die gut aussieht (Schriftart, Hintergrund usw.) mit Titel, Untertiteln und Texten.
+- [ ] Weiter Funktionen in html (buttons, einklappbare texte usw) lernen
+- [ ] Im Modul 293 LA machen die ich nicht geschafft habe. ( )
+- [ ] 
       
 &nbsp;
 
