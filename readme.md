@@ -55,10 +55,25 @@ Als erstes habe ich für das Modul 187 die Themen Softwarelizensen und Dateisyst
 - [x] Im neuen Modul 293 die LA machen die ich nicht geschafft habe erledigen oder weiter arbeiten. (LA7706)
 - [ ] Weiter Funktionen in html/css (buttons, einklappbare Texte usw.) lernen
 - [x] Lernen wie man das Layout der anpasst (Text zentrieren, Zeilenumbruch usw.)
-- [ ] Eine Website (ohne Kontext) die gut aussieht (Schriftart, Hintergrund usw.) mit Titel, Untertiteln und Texten.
+- [x] Eine Website (ohne Kontext) die gut aussieht (Schriftart, Hintergrund usw.) mit Titel, Untertiteln und Texten.
       
 &nbsp;
 
 **Heute habe ich...**        
-Ich habe den im Modul 293 einen Auftrag erledigt in dem man mit html und CSS eine Layout des Grundaufbaus von html erstellen musste. Durch diesen Auftrag habe ich gelernt wie man das Layout mithilfe von CSS anpassen kann und designen. Ich habe den Fertigen Code hochgeladen (LA7706).
+Ich habe den im Modul 293 einen Auftrag erledigt in welchem man mit html und CSS ein Layout des Grundaufbaus von html erstellen musste. Da ich noch gar keine Erfahrung habe, hat dies viel Zeit in Anspruch genommen. Durch diesen Auftrag habe ich jedoch gelernt, wie man das Layout mithilfe von CSS anpassen kann und dieses designt. Ich habe den fertigen Code hochgeladen (LA7706). Anschliessend habe ich in meinem Test-Projekt noch etwas mit den neu gelernten Sachen herumprobiert und die Website somit verbessert. 
+
+ &nbsp;
+ 
+ &nbsp;
+  
+### 14.05.2024
+
+- [ ] Weiter Funktionen in html/css (buttons, einklappbare Texte usw.) lernen
+- [ ] Mein Test Projekt erweitern mit mehreren Seiten, navigation bar, buttons usw
+- [ ] Im Modul 293 wenn vorhanden nicht geschaffte Aufträge (LA7707-7711) machen oder weiter arbeiten.
+- [ ] Die LB im Modul 293 anfangen oder eignenes kleinens Projekt (Website mit Kontext) erstellen.
+      
+&nbsp;
+
+**Heute habe ich...**                   
 ...
