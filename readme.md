@@ -60,4 +60,5 @@ Als erstes habe ich für das Modul 187 die Themen Softwarelizensen und Dateisyst
 &nbsp;
 
 **Heute habe ich...**        
-......
+Ich habe den im Modul 293 einen Auftrag erledigt in dem man mit html und CSS eine Layout des Grundaufbaus von html erstellen musste. Durch diesen Auftrag habe ich gelernt wie man das Layout mithilfe von CSS anpassen kann und designen. Ich habe den Fertigen Code hochgeladen (LA0706 Grundaufbau).
+...
