@@ -52,7 +52,7 @@ Als erstes habe ich für das Modul 187 die Themen Softwarelizensen und Dateisyst
   
 ### 07.05.2024
 
-- [x] Im neuen Modul 293 die LA machen die ich nicht geschafft habe erledigen oder weiter arbeiten. (LA0706)
+- [x] Im neuen Modul 293 die LA machen die ich nicht geschafft habe erledigen oder weiter arbeiten. (LA7706)
 - [ ] Weiter Funktionen in html/css (buttons, einklappbare Texte usw.) lernen
 - [x] Lernen wie man das Layout der anpasst (Text zentrieren, Zeilenumbruch usw.)
 - [ ] Eine Website (ohne Kontext) die gut aussieht (Schriftart, Hintergrund usw.) mit Titel, Untertiteln und Texten.
@@ -60,5 +60,5 @@ Als erstes habe ich für das Modul 187 die Themen Softwarelizensen und Dateisyst
 &nbsp;
 
 **Heute habe ich...**        
-Ich habe den im Modul 293 einen Auftrag erledigt in dem man mit html und CSS eine Layout des Grundaufbaus von html erstellen musste. Durch diesen Auftrag habe ich gelernt wie man das Layout mithilfe von CSS anpassen kann und designen. Ich habe den Fertigen Code hochgeladen (LA0706 Grundaufbau).
+Ich habe den im Modul 293 einen Auftrag erledigt in dem man mit html und CSS eine Layout des Grundaufbaus von html erstellen musste. Durch diesen Auftrag habe ich gelernt wie man das Layout mithilfe von CSS anpassen kann und designen. Ich habe den Fertigen Code hochgeladen (LA7706).
 ...
