@@ -52,7 +52,7 @@ Als erstes habe ich für das Modul 187 die Themen Softwarelizensen und Dateisyst
   
 ### 07.05.2024
 
-- [ ] Im neuen Modul 293 die LA machen die ich nicht geschafft habe erledigen oder weiter arbeiten.
+- [x] Im neuen Modul 293 die LA machen die ich nicht geschafft habe erledigen oder weiter arbeiten. (LA0706)
 - [ ] Weiter Funktionen in html (buttons, einklappbare Texte usw.) lernen
 - [ ] Lernen wie man das Layout der anpasst (Text zentrieren, Zeilenumbruch usw.)
 - [ ] Eine Website (ohne Kontext) die gut aussieht (Schriftart, Hintergrund usw.) mit Titel, Untertiteln und Texten.
