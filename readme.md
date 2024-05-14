@@ -84,10 +84,10 @@ Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrech
   
 ### 21.05.2024
 
-- [ ] Weitere Funktionen lernen mit CSS um die Interaktion mit der Website zu verschönern (hover Effekte, einklapptexte, Forms usw.)
+- [ ] Weitere Funktionen lernen mit CSS um die Interaktion mit der Website zu verschönern (Hover-Effekte, einklapptexte, Forms usw.)
 - [ ] In meinem Testprojekt eine navigationbar einbauen.
-- [ ] In meinem Testprojekt einen hover-Effekt auf die Buttons machen.
-- [ ] In meinem Testprojekt ein Forms machen für einen "Newsletter" (der nicht wirklich existiert.)
+- [ ] In meinem Testprojekt einen Hover-Effekt auf die Buttons machen.
+- [ ] In meinem Testprojekt ein Forms machen für einen "Newsletter" (der nicht wirklich existiert. Mithilfe von formspree.io)
       
 &nbsp;
 
