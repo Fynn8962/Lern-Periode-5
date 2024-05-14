@@ -76,7 +76,7 @@ Ich habe den im Modul 293 einen Auftrag erledigt in welchem man mit html und CSS
 &nbsp;
 
 **Heute habe ich...**                   
-Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrechte mit dem Hintergedanken mich zuerst zu Informieren bevor ich etwas nicht erlaubtes bezügung Nutzungsrecht in meinem Projekt mache. Danach habe ich in meinem Testprojekt eine Weitere Seite erstellt. Das heisst ich habe ein neues html file und ein neues CSS file erstellt (man kann auch alles in ein CSS file schreiben ich war mir aber anfangs nicht sicher). Um die neue Seite erreichen zu können habe ich dann einen Button gemacht mit der Funktion auf die nächste Seiter zu gehen und natürlich auch zurück. Ich habe die Files zu meinem Testprojekt hochgeladen (html_pr1).
+Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrechte, mit dem Hintergedanken mich zuerst zu Informieren, bevor ich etwas nicht erlaubtes bezüglich Nutzungsrecht in meinem Projekt mache. Danach habe ich in meinem Testprojekt eine weitere Seite erstellt. Das heisst ich habe ein neues HTML File und ein neues CSS File erstellt (man kann auch alles in ein CSS File schreiben, ich war mir aber anfangs nicht sicher). Um die neue Seite erreichen zu können habe ich dann einen Button gemacht, mit der Funktion auf die nächste Seite zu gehen und natürlich auch zurück. Ich habe die Files zu meinem Testprojekt hochgeladen (html_pr1).
 
  &nbsp;
  
