@@ -68,12 +68,28 @@ Ich habe den im Modul 293 einen Auftrag erledigt in welchem man mit html und CSS
   
 ### 14.05.2024
 
-- [ ] Weiter Funktionen in html/css (buttons, einklappbare Texte usw.) lernen
-- [ ] Mein Test Projekt erweitern mit mehreren Seiten, navigation bar, buttons usw
+- [x] Weiter Funktionen in html/css (buttons, einklappbare Texte usw.) lernen
+- [x] Mein Testprojekt erweitern mit mehreren Seiten, navigation bar, buttons usw
 - [x] Im Modul 293 wenn vorhanden nicht geschaffte Aufträge (LA7707-7711) machen oder weiter arbeiten.
 - [ ] Die LB im Modul 293 anfangen oder eignenes kleinens Projekt (Website mit Kontext) erstellen.
       
 &nbsp;
 
 **Heute habe ich...**                   
-Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrechte mit dem Hintergedanken mich zuerst zu Informieren bevor ich etwas nicht erlaubtes bezügung Nutzungsrecht in meinem Projekt mache. ...
+Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrechte mit dem Hintergedanken mich zuerst zu Informieren bevor ich etwas nicht erlaubtes bezügung Nutzungsrecht in meinem Projekt mache. Danach habe ich in meinem Testprojekt eine Weitere Seite erstellt. Das heisst ich habe ein neues html file und ein neues CSS file erstellt (man kann auch alles in ein CSS file schreiben ich war mir aber anfangs nicht sicher). Um die neue Seite erreichen zu können habe ich dann einen Button gemacht mit der Funktion auf die nächste Seiter zu gehen und natürlich auch zurück. 
+
+ &nbsp;
+ 
+ &nbsp;
+  
+### 21.05.2024
+
+- [ ] Weitere Funktionen lernen mit CSS um die Interaktion mit der Website zu verschönern (hover Effekte, einklapptexte, Forms usw.)
+- [ ] In meinem Testprojekt eine navigationbar einbauen.
+- [ ] In meinem Testprojekt einen hover-Effekt auf die Buttons machen.
+- [ ] In meinem Testprojekt ein Forms machen für einen "Newsletter" (der nicht wirklich existiert.)
+      
+&nbsp;
+
+**Heute habe ich...**     
+...
