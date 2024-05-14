@@ -70,10 +70,10 @@ Ich habe den im Modul 293 einen Auftrag erledigt in welchem man mit html und CSS
 
 - [ ] Weiter Funktionen in html/css (buttons, einklappbare Texte usw.) lernen
 - [ ] Mein Test Projekt erweitern mit mehreren Seiten, navigation bar, buttons usw
-- [ ] Im Modul 293 wenn vorhanden nicht geschaffte Aufträge (LA7707-7711) machen oder weiter arbeiten.
+- [x] Im Modul 293 wenn vorhanden nicht geschaffte Aufträge (LA7707-7711) machen oder weiter arbeiten.
 - [ ] Die LB im Modul 293 anfangen oder eignenes kleinens Projekt (Website mit Kontext) erstellen.
       
 &nbsp;
 
 **Heute habe ich...**                   
-...
+Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrechte mit dem Hintergedanken mich zuerst zu Informieren bevor ich etwas nicht erlaubtes bezügung Nutzungsrecht in meinem Projekt mache. ...
