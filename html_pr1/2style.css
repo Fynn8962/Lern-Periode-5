@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+
+}
+
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 25px;
+    background-image: url(images/italy-162326_1280.webp);
+    background-size: cover;
+    color: black;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(images/italy-162326_1280.webp);
+    background-size: cover;
+}
+
+#modell {
+    font-family: 'Courier New', Courier, monospace; 
+    background-image: url(images/italy-162326_1280.webp);
+    background-size: cover;
+}
+
+#link {
+    font-family: 'Courier New', Courier, monospace; 
+    text-decoration: none;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+img {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 15px
+}
