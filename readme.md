@@ -92,4 +92,4 @@ Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrech
 &nbsp;
 
 **Heute habe ich...**     
-Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bewirkt das diese Grau werden. Anschliessend habe ich mit Hilfe der Forms ein Fragen Eingabefeld erstellt.
+Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bewirkt das diese Grau werden. Anschliessend habe ich mit Hilfe der Forms ein Fragen Eingabefeld erstellt welches ich mit einen Button und einem Label versehen habe.
