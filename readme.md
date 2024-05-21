@@ -87,9 +87,26 @@ Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrech
 - [x] Weitere Funktionen lernen mit CSS um die Interaktion mit der Website zu verschönern (Hover-Effekte, einklapptexte, Forms usw.)
 - [ ] In meinem Testprojekt eine navigationbar einbauen.
 - [x] In meinem Testprojekt einen Hover-Effekt auf die Buttons machen.
-- [ ] In meinem Testprojekt ein Forms machen für einen "Newsletter" (der nicht wirklich existiert. Mithilfe von formspree.io).
+- [x] In meinem Testprojekt ein Forms machen für einen "Newsletter" (der nicht wirklich existiert. Mithilfe von formspree.io).
       
 &nbsp;
 
 **Heute habe ich...**     
-Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bewirkt das diese Grau werden. Anschliessend habe ich mit Hilfe der Forms ein Fragen Eingabefeld erstellt welches ich mit einen Button und einem Label versehen habe.
+Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bewirkt das diese Grau werden. Anschliessend habe ich mit Hilfe der Forms ein Fragen Eingabefeld erstellt welches ich mit einen Button und einem Label versehen habe. Als nächsten wollte ich, das Einträge in mein Forms auch gesendet werden. Dazu habe ich formspree.io verwendet, mir einen Account erstellt und ein neues Projekt erstellt. Ich hatte zuerst Probleme da es mir Fehlermeldungen anzeigte, doch nach ein bischen probieren und googlen habe ich dann verstanden was das Problem war. Nun werden mir Einträge in mein Forms an meine Email geschickt. 
+
+
+ &nbsp;
+ 
+ &nbsp;
+  
+### 28.05.2024
+
+- [ ] Die beste Methode finden um das Layout auf einer Website zu verändern/definieren.
+- [ ] In meinem Testprojekt eine navigationbar einbauen.
+- [ ] Im neuen Modul 122 nicht abgeschlossene Aufträge abschliessen oder Weiter arbeiten. (...)
+- [ ] Im Modul 293 mit der LB anfangen (zuerst man Anschauen und eine Grundidee bekommen)
+
+      
+&nbsp;
+
+**Heute habe ich...**          
