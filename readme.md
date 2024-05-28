@@ -110,7 +110,7 @@ Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bew
 &nbsp;
 
 **Heute habe ich...**   
-Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. Diese habe ich zusammen mit einem Auftrag aus dem Modul 293 gemacht und zusätzlich noch Notizen in meine Dokumentation hinzugefügt. Anschliessend habe ich, da ich im Letzen Unterrich Probleme mit einem Auftrag hatte, den Rest der Zeit für das Modul 122 Geutzt. Ich habe Aufträge über die Grundlagen von Powershell bearbeitet und anschliessend ein kleines erstes Skript geschrieben. Ich hatte Anfangs kleine Probleme mit dem Syntax und gewissen Begriffen doch ich wurde schnell damit vertraut. Ich habe die .ps1 Datei Hochgeladen, jedoch hat diese kjeine Metainformationen sondern nur Code.
+Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. Diese habe ich zusammen mit einem Auftrag aus dem Modul 293 gemacht und zusätzlich noch Notizen in meine Dokumentation hinzugefügt. Anschliessend habe ich, da ich im Letzen Unterrich Probleme mit einem Auftrag hatte, den Rest der Zeit für das Modul 122 Geutzt. Ich habe Aufträge über die Grundlagen von Powershell bearbeitet und anschliessend ein kleines erstes Skript geschrieben. Ich hatte Anfangs kleine Probleme mit dem Syntax und gewissen Begriffen doch ich wurde schnell damit vertraut. Ich habe die .ps1 (#LA1705.ps1) Datei Hochgeladen, jedoch hat diese keine Metainformationen sondern nur Code.
 
 
  &nbsp;
