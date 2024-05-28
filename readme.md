@@ -103,11 +103,28 @@ Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bew
 
 - [ ] Die beste Methode finden um das Layout auf einer Website zu verändern/definieren.
 - [x] In meinem Testprojekt eine navigationbar einbauen.
-- [ ] Im neuen Modul 122 nicht abgeschlossene Aufträge abschliessen oder Weiter arbeiten. (...)
+- [x] Im neuen Modul 122 nicht abgeschlossene Aufträge abschliessen oder Weiter arbeiten. (...)
 - [ ] Im Modul 293 mit der LB anfangen (zuerst man Anschauen und eine Grundidee bekommen)
 
       
 &nbsp;
 
 **Heute habe ich...**   
-Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. Diese habe ich zusammen mit einem Auftrag aus dem Modul 293 gemacht und zusätzlich noch Notizen in meine Dokumentation hinzugefügt.
+Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. Diese habe ich zusammen mit einem Auftrag aus dem Modul 293 gemacht und zusätzlich noch Notizen in meine Dokumentation hinzugefügt. Anschliessend habe ich, da ich im Letzen Unterrich Probleme mit einem Auftrag hatte, den Rest der Zeit für das Modul 122 Geutzt. Ich habe Aufträge über die Grundlagen von Powershell bearbeitet und anschliessend ein kleines erstes Skript geschrieben. Ich hatte Anfangs kleine Probleme mit dem Syntax und gewissen Begriffen doch ich wurde schnell damit vertraut. Ich habe die .ps1 Datei Hochgeladen, jedoch hat diese kjeine Metainformationen sondern nur Code.
+
+
+ &nbsp;
+ 
+ &nbsp;
+  
+### 04.06.2024
+
+- [ ] Im Modul122 die Aufträge 1711 und 1712 bearbeiten (Wenn noch nicht fertig 1710)
+- [ ] Im Modul 293 die restlichen Aufträg machen (Aufträge 7712-7714)
+- [ ] Im Modul293 eine Idee für die LB bekommen (Mockup, Notizen, Bilder (Copyright?))
+- [ ] Im Modul 293 wenn möglich mit der LB Anfangen, Grundaufbau der Website (Webseiten, Link CSS)
+
+      
+&nbsp;
+
+**Heute habe ich...**  
