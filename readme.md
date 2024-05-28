@@ -102,11 +102,12 @@ Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bew
 ### 28.05.2024
 
 - [ ] Die beste Methode finden um das Layout auf einer Website zu verändern/definieren.
-- [ ] In meinem Testprojekt eine navigationbar einbauen.
+- [x] In meinem Testprojekt eine navigationbar einbauen.
 - [ ] Im neuen Modul 122 nicht abgeschlossene Aufträge abschliessen oder Weiter arbeiten. (...)
 - [ ] Im Modul 293 mit der LB anfangen (zuerst man Anschauen und eine Grundidee bekommen)
 
       
 &nbsp;
 
-**Heute habe ich...**          
+**Heute habe ich...**   
+Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. Diese habe ich zusammen mit einem Auftrag aus dem Modul 293 gemacht und zusätzlich noch Notizen in meine Dokumentation hinzugefügt.
