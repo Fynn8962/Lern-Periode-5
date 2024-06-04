@@ -128,4 +128,4 @@ Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. D
 &nbsp;
 
 **Heute habe ich...**     
-Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und schreiben mithilfe eines Skripts. Anfangs hatte ich Probleme die Daten richtig abzufragen und zu speichern, damit diese mit korrektem Layout in die .txt Datei gespeichert werden. Ich habe die Datei (LA1712.ps1) als Code hochgeladen.
+Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und schreiben mithilfe eines Skripts. Anfangs hatte ich Probleme die Daten richtig abzufragen und zu speichern, damit diese mit korrektem Layout in die .txt Datei gespeichert werden. Ich habe die Datei (LA1712.ps1) als Code im PowerShell Ordner hochgeladen.
