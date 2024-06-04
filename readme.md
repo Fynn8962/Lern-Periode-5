@@ -119,12 +119,13 @@ Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. D
   
 ### 04.06.2024
 
-- [ ] Im Modul122 die Aufträge 1711 und 1712 bearbeiten (Wenn noch nicht fertig 1710)
-- [ ] Im Modul 293 die restlichen Aufträg machen (Aufträge 7712-7714)
+- [x] Im Modul122 die Aufträge 1711 und 1712 bearbeiten (Wenn noch nicht fertig 1710)
+- [ ] Im Modul 293 die restlichen Aufträg machen (Aufträge 7713 & 7714)
 - [ ] Im Modul293 eine Idee für die LB bekommen (Mockup, Notizen, Bilder (Copyright?))
 - [ ] Im Modul 293 wenn möglich mit der LB Anfangen, Grundaufbau der Website (Webseiten, Link CSS)
 
       
 &nbsp;
 
-**Heute habe ich...**  
+**Heute habe ich...**     
+Den Auftrag 1711 und 1712 gemacht, im Auftrag 1712 hatte ich Anfangs Probleme, da man den Output aus Befehl in eine .txt Datei speichern sollte und dies Anfangs nicht richtig funktionierte. 
