@@ -120,7 +120,7 @@ Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. D
 ### 04.06.2024
 
 - [x] Im Modul122 die Aufträge 1711 und 1712 bearbeiten (Wenn noch nicht fertig 1710)
-- [ ] Im Modul 293 die restlichen Aufträg machen (Aufträge 1713 & 1714)
+- [x] Im Modul 293 die restlichen Aufträg machen (Aufträge 1713 & 1714)
 - [ ] Im Modul293 eine Idee für die LB bekommen (Mockup, Notizen, Bilder (Copyright?))
 - [ ] Im Modul 293 wenn möglich mit der LB Anfangen, Grundaufbau der Website (Webseiten, Link CSS)
 
@@ -128,4 +128,4 @@ Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. D
 &nbsp;
 
 **Heute habe ich...**     
-Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und schreiben mithilfe eines Skripts. Anfangs hatte ich Probleme die Daten richtig abzufragen und zu speichern, damit diese mit korrektem Layout in die .txt Datei gespeichert werden. Ich habe die Datei (LA1712.ps1) als Code im PowerShell Ordner hochgeladen.
+Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und schreiben mithilfe eines Skripts. Anfangs hatte ich Probleme die Daten richtig abzufragen und zu speichern, damit diese mit korrektem Layout in die .txt Datei gespeichert werden. Ich habe die Datei (LA1712.ps1) als Code im PowerShell Ordner hochgeladen. Anschliessend habe ich noch die letzen Aufträge des Moduls gemacht. Ich habe mein Skript mit der Windows Aufgabenplanung automatisiert sodass es "theoretisch" jeden Monat einmal ausgeführt wird.
