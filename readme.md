@@ -129,3 +129,22 @@ Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. D
 
 **Heute habe ich...**     
 Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und schreiben mithilfe eines Skripts. Anfangs hatte ich Probleme die Daten richtig abzufragen und zu speichern, damit diese mit korrektem Layout in die .txt Datei gespeichert werden. Ich habe die Datei (LA1712.ps1) als Code im PowerShell Ordner hochgeladen. Anschliessend habe ich noch die letzen Aufträge des Moduls gemacht. Ich habe mein Skript mit der Windows Aufgabenplanung automatisiert sodass es "theoretisch" jeden Monat einmal ausgeführt wird. Der Letzte Auftrag war ein Theorieauftrag zu Systemsicherheit bei dem ich keine grossen Probleme hatte.
+
+
+ &nbsp;
+ 
+ &nbsp;
+  
+### 10.06.2024
+
+- [ ] Im Modul 293 die letzten Aufträge (LA1713 & 1712) abschliessen
+- [ ] Im Modul 293 eine Idee für die LB bekommen (Was für eine Website mache ich?)
+- [ ] EIn Mockup erstellen das alle Anforderungen abdeckt
+- [ ] Das Mockup + Pflichtenheft an Lehrperson zur prüfung senden
+
+
+      
+&nbsp;
+
+**Heute habe ich...**     
+
