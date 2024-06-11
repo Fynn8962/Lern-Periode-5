@@ -135,10 +135,10 @@ Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und 
  
  &nbsp;
   
-### 10.06.2024
+### 11.06.2024
 
-- [ ] Im Modul 293 die letzten Aufträge (LA1713 & 1712) abschliessen
-- [ ] Im Modul 293 eine Idee für die LB bekommen (Was für eine Website mache ich?)
+- [x] Im Modul 293 die letzten Aufträge (LA1713 & 1712) abschliessen
+- [x] Im Modul 293 eine Idee für die LB bekommen (Was für eine Website mache ich?)
 - [ ] EIn Mockup erstellen das alle Anforderungen abdeckt
 - [ ] Das Mockup + Pflichtenheft an Lehrperson zur prüfung senden
 
@@ -146,5 +146,24 @@ Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und 
       
 &nbsp;
 
-**Heute habe ich...**     
+**Heute habe ich...**          
+Heute habe ich die letzten Aufträge im Modul 293 gemacht in welchen es ums Hosten und Testen von Websites ging. Beim Hosten hatte ich Probleme da der Link im Auftrag mir eine Warnmeldung gab und ich darum einen anderen provider Nutzen wollte / musste. Anschliessend habe ich überlegt was ich für ein LB Projekt machen könnte. Ich habe mir ein Layout überlegt und dieses schon mal grob angefangen als Mockup darzustellen. Weil es sehr schwierig ist gute no Copyright Bilder zu finden bin ich mir bei meinem Thema noch nicht ganz sicher.
 
+
+ &nbsp;
+ 
+ &nbsp;
+  
+### 18.06.2024
+
+- [x] Im Modul 293 eine Idee für die LB bekommen (Was für eine Website mache ich?)
+- [ ] EIn Mockup erstellen das alle Anforderungen abdeckt
+- [ ] Das Mockup + Pflichtenheft an Lehrperson zur prüfung senden
+- [ ] Mit der Website Anfangen in VS-Code
+      
+
+
+      
+&nbsp;
+
+**Heute habe ich...**     
