@@ -157,9 +157,9 @@ Heute habe ich die letzten Aufträge im Modul 293 gemacht in welchen es ums Host
 ### 18.06.2024
 
 - [x] Im Modul 293 eine Idee für die LB bekommen (Was für eine Website mache ich?)
-- [ ] EIn Mockup erstellen das alle Anforderungen abdeckt
-- [ ] Das Mockup + Pflichtenheft an Lehrperson zur prüfung senden
-- [ ] Mit der Website Anfangen in VS-Code
+- [x] EIn Mockup erstellen das alle Anforderungen abdeckt
+- [x] Das Mockup + Pflichtenheft an Lehrperson zur prüfung senden
+- [x] Mit der Website Anfangen in VS-Code
       
 
 
