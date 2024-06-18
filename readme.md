@@ -167,7 +167,7 @@ Heute habe ich die letzten Aufträge im Modul 293 gemacht in welchen es ums Host
 &nbsp;
 
 **Heute habe ich...**     
-Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefangen. Ich habe das Layout mit hilfe von "display: grid" gemacht. Da das Thema der Website ein Auto ist habe ich zur einschätzung der Grösse mal ein Autobild eingefügt. Das Mockup an dem ich mich orientiere habe ich schon im vorhinein gemacht und es der Lehrperson zur korrektur gezeigt. Den jetzigen Stand meiner Website (Farben sind noch die Finalen!) habe ich Hochgeladen, es sind 5 Seiten, die Erste unterscheidet sich vom Layout gegenüber den restlichen Vier. Nächstes mal möchte ich mich darum kümmern das sich das Layout ab einer gewissen Displaygrösse anpasst (responsive Webdesign).
+Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefangen. Ich habe das Layout mit hilfe von "display: grid" gemacht. Da das Thema der Website ein Auto ist habe ich zur einschätzung der Grösse mal ein Autobild eingefügt. Das Mockup an dem ich mich orientiere habe ich schon im vorhinein gemacht und es der Lehrperson zur korrektur gezeigt. Den jetzigen Stand meiner Website (Farben sind noch die Finalen!) habe ich Hochgeladen (LB293), es sind 5 Seiten, die Erste unterscheidet sich vom Layout gegenüber den restlichen Vier. Nächstes mal möchte ich mich darum kümmern das sich das Layout ab einer gewissen Displaygrösse anpasst (responsive Webdesign).
 
 
  &nbsp;
