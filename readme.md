@@ -201,8 +201,11 @@ Datei: LB293
 &nbsp;
 
 ### Beschreibung      
-xxx
+Meine Website habe ich mittels eines Grid-Layouts erstellt, um das Layout zu definieren. Durch eine Navbar verlinke ich die Startseite mit den Unterseiten, das Logo oben Links im Header dient als Homebutton um zur Startseite zurückzugelangen. Bild 1 zeigt das Desktopdesign und Bild 2 das Handydesign. Dieses Responsive Design habe ich mit einem media-query erstellt, das, wenn der Bildschirm 850px oder kleiner ist, das Layout verändert. Im Bild 3 kann man sehen wie sich das Layout verändert, ausserdem wird im Handydesign aus der Navbar ein Hamburger-Menü um Platz zu sparen.
 
-1. <img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/Bilder/Screenshot%202024-06-25%20100025.png" width="500" alt="Website Desktopansicht">
-2. <img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/Bilder/Screenshot%202024-06-25%20100108.png" width="300" alt="Website Mobileansicht">
-3. <img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/GIF_Website.gif" width="500" alt="GIF zu Responsive Design">
+1. 
+<img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/Bilder/Screenshot%202024-06-25%20100025.png" alt="Website Desktopansicht" width="500" >
+2. 
+<img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/Bilder/Screenshot%202024-06-25%20100108.png" alt="Website Mobileansicht" width="300" >
+3. 
+<img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/GIF_Website.gif" alt="GIF zu Responsive Design" width="500" >
