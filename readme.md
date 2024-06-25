@@ -216,8 +216,11 @@ Meine Website habe ich mittels eines Grid-Layouts erstellt, um das Layout zu def
 
 &nbsp;
 
-# Revlexion
+# Reflexion
 Fynn Huber    
 25.06.2024
+
 &nbsp;
-### Beschreibung   
+
+### LP-Reflexion   
+In deieser Lernperiode habe ich mir sehr auf HTML und CSS funktioniert, was ich mir auch am Ende der Lernperiode 4 vorgenommen hatte. Ausserdem habe ich auch mit Powershell gearbeitet, meistens Aufträge aus dem Modul. Mit meiner Arbeitsweise in diesem Modul bin ich grösstenteils zufrieden, ich hatte mir vorgenommen Zeitlich kleinere dafür mehr Arbeitspakete abzuschliessen. Leider habe ich auch in dieser Lernperiode immer wieder eins oder zwei Arbeitspackete die ich an gewissen Tagen nicht abschliessen konnte. Dafür habe ich sehr viel gelernt über Webdeveloping, wenn ich mein erste Website am anfang der LP anschaue und sie mit meinem jetzigen Projekt vergleiche. Insgesamt war das einer der angenehmsten Lernperioden, obwohl ich mich manchmal ein bischen sehr auf die Theorie von HTML und CSS fokussiert habe, anstelle etwas im Bezug auf mein Projekt umzusetzen.
