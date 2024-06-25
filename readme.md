@@ -177,7 +177,7 @@ Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefange
 ### 25.06.2024
 
 - [x] Website Projekt abschliessen, letzte Anpassungen wie z.B Schriftgrösse.
-- [ ] Anfangen mit dem Portfoliobeitrag des Moduls 122 über read und write in Dateien
+- [x] Anfangen mit dem Portfoliobeitrag des Moduls 122 über read und write in Dateien
       
 
 
@@ -209,3 +209,15 @@ Meine Website habe ich mittels eines Grid-Layouts erstellt, um das Layout zu def
 <img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/Bilder/Screenshot%202024-06-25%20100108.png" alt="Website Mobileansicht" width="300" >
 3. 
 <img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/GIF_Website.gif" alt="GIF zu Responsive Design" width="500" >
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# Revlexion
+Fynn Huber    
+25.06.2024
+&nbsp;
+### Beschreibung   
