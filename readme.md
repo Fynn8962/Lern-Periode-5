@@ -177,7 +177,7 @@ Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefange
 ### 25.06.2024
 
 - [ ] Portfoliobeitrag im Modul 122 Anfangen zum Thema Read/Write
-- [ ] Website Projekt abschliessen, letzte Anpassungen wie z.B Schriftgrösse.
+- [x] Website Projekt abschliessen, letzte Anpassungen wie z.B Schriftgrösse.
       
 
 
@@ -185,3 +185,4 @@ Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefange
 &nbsp;
 
 **Heute habe ich...**     
+Ich habe mein Website Projekt das ich zeitgleich für das Modul293 gemacht habe grösstenteils Abgeschlossen. Da mir jedoch noch Bilder fehlen, die ich selbst machen werde, habe ich bis jetzt nur Platzhalter als Bilder eingefügt. Die Funktionellen Aspekte der Website sind jedoch fertig und ich habe die Finale Datei als LB293 hochgeladen.
