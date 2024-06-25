@@ -185,7 +185,7 @@ Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefange
 &nbsp;
 
 **Heute habe ich...**     
-Ich habe mein Website Projekt das ich zeitgleich für das Modul293 gemacht habe grösstenteils Abgeschlossen. Da mir jedoch noch Bilder fehlen, die ich selbst machen werde, habe ich bis jetzt nur Platzhalter als Bilder eingefügt. Die Funktionellen Aspekte der Website sind jedoch fertig und ich habe die Finale Datei als LB293 hochgeladen.
+Ich habe mein Website Projekt das ich zeitgleich für das Modul293 gemacht habe grösstenteils Abgeschlossen. Da mir jedoch noch Bilder fehlen, die ich selbst machen werde, habe ich bis jetzt nur Platzhalter als Bilder eingefügt. Die Funktionellen Aspekte der Website sind jedoch fertig und ich habe die Finale Datei als LB293 hochgeladen. Anschliessend habe ich mit dem Portfoliobeitrag im Modul 122 angefangen. In diesem beitrag geht es über Powershell, genauer gesagt beschreibe ich die Funktion von Read und Write, d.h wie man Textdateien Lesen und Schreiben kann. 
 
 &nbsp;
 
