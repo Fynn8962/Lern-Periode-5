@@ -176,8 +176,8 @@ Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefange
   
 ### 25.06.2024
 
-- [ ] Portfoliobeitrag im Modul 122 machen
-- [ ] Powershell Skript im Modul 122 implementieren (trigger)
+- [ ] Portfoliobeitrag im Modul 122 Anfangen zum Thema Read/Write
+- [ ] Website Projekt abschliessen, letzte Anpassungen wie z.B Schriftgrösse.
       
 
 
