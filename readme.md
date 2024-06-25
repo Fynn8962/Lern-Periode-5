@@ -205,4 +205,4 @@ xxx
 
 <img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/Bilder/Screenshot%202024-06-25%20100025.png" width="500">
 <img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/Bilder/Screenshot%202024-06-25%20100108.png" width="300">
-<img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/Bilder/GIF_Website.gif" width="500">
+<img src="https://github.com/Fynn8962/Lern-Periode-5/blob/main/GIF_Website.gif" width="500">
