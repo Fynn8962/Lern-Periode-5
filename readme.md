@@ -176,8 +176,8 @@ Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefange
   
 ### 25.06.2024
 
-- [ ] Layout der Website an Displaygrösse anpassen (responsive Webdesign)
-- [ ] Finale Farben und verschönerungen implementieren, damit das Grunddesign fertig ist.
+- [ ] Portfoliobeitrag im Modul 122 machen
+- [ ] Powershell Skript im Modul 122 implementieren (trigger)
       
 
 
