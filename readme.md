@@ -9,7 +9,7 @@ Fynn Huber
   
 **3. Was wäre ein geeignetes Projekt für diese LP5?**
 
-  Ich möchte mich zuerst mit html und CSS vertraut machen und eine einfache Website gestalten um zuerst eine Grundidee von html und CSS zu bekommen . Als zweites Projekt würde ich dann gerne etwas Sinnvolles erstellen, heisst eine Website mit irgendwelchen Informationen über ein Thema.
+  Ich möchte mich zuerst mit html und CSS vertraut machen und eine einfache Website gestalten, um zuerst eine Grundidee von html und CSS zu bekommen . Als zweites Projekt würde ich dann gerne etwas Sinnvolles erstellen, heisst eine Website mit irgendwelchen Informationen über ein Thema.
 
    &nbsp;
 
@@ -18,7 +18,7 @@ Fynn Huber
 ### 23.4.2024
 
 **Heute habe ich...**    
-Mir angeschaut was ich mir in der letzten LP vorgenommen habe und aus dieser Information mir überlegt, wie ich dies am besten umsetzen kann. Ich habe mich für ein geeignetes Projekt entschieden und anschliessend die 4 Arbeitspackete für die nächste Sitzung erstellt. Drei der Vier Arbeitspackete handeln um html und CSS, da ich aber nicht weis wie gut ich im Modul 187 vorankomme durch weitere anstehende Tests, habe ich mich dafür entschieden ein Arbeitspaket zu erstellen um am Modul zu arbeiten. 
+Mir angeschaut, was ich mir in der letzten LP vorgenommen habe und aus dieser Information mir überlegt, wie ich dies am besten umsetzen kann. Ich habe mich für ein geeignetes Projekt entschieden und anschliessend die 4 Arbeitspakete für die nächste Sitzung erstellt. Drei der vier Arbeitspakete handeln um HTML und CSS, da ich aber nicht weis, wie gut ich im Modul 187 vorankomme durch weitere anstehende Tests, habe ich mich dafür entschieden ein Arbeitspaket zu erstellen, um am Modul zu arbeiten.
 
  &nbsp;
  
@@ -34,7 +34,7 @@ Mir angeschaut was ich mir in der letzten LP vorgenommen habe und aus dieser Inf
 &nbsp;
 
 **Heute habe ich...**              
-Als erstes habe ich für das Modul 187 die Themen Softwarelizensen und Dateisystem nochmal reptiert, da ich diese noch nicht so gut verinnerlicht hatte. Nach der Pause habe ich mein erstes Visual Stuido Code Projekt erstellt mit html und css files. Ich habe mich dann mit den Grundlagen von html beschäftigt und zuerst ein bischen rumprobiert und mit css die Hintergrundfarbe oder die Schriftfarbe verändert. Zum Schluss habe ich noch nachgeschaut wie man Bilder einfügt und habe dadurch noch ein Bild mit einem Link zu einer anderen Website hinzugefügt.
+Als Erstes habe ich für das Modul 187 die Themen Softwarelizenzen und Dateisystem nochmal rentiert, da ich diese noch nicht so gut verinnerlicht hatte. Nach der Pause habe ich mein erstes Visual Studio Code Projekt erstellt, mit HTML und CSS Files. Ich habe mich dann mit den Grundlagen von HTML beschäftigt und zuerst ein bisschen herumprobiert und mit CSS die Hintergrundfarbe oder die Schriftfarbe verändert. Zum Schluss habe ich noch nachgeschaut, wie man Bilder einfügt und habe dadurch noch ein Bild mit einem Link zu einer anderen Website hinzugefügt.
 
  &nbsp;
  
@@ -50,7 +50,7 @@ Als erstes habe ich für das Modul 187 die Themen Softwarelizensen und Dateisyst
 &nbsp;
 
 **Heute habe ich...**        
-Ich habe den im Modul 293 einen Auftrag erledigt in welchem man mit html und CSS ein Layout des Grundaufbaus von html erstellen musste. Da ich noch gar keine Erfahrung habe, hat dies viel Zeit in Anspruch genommen. Durch diesen Auftrag habe ich jedoch gelernt, wie man das Layout mithilfe von CSS anpassen kann und dieses designt. Ich habe den fertigen Code hochgeladen (LA7706). Anschliessend habe ich in meinem Test-Projekt noch etwas mit den neu gelernten Sachen herumprobiert und die Website somit verbessert. 
+Ich habe den im Modul 293 einen Auftrag erledigt in welchem man mit HTML und CSS ein Layout des Grundaufbaus von HTML erstellen musste. Da ich noch gar keine Erfahrung habe, hat dies viel Zeit in Anspruch genommen. Durch diesen Auftrag habe ich jedoch gelernt, wie man das Layout mithilfe von CSS anpassen kann und dieses designt. Ich habe den fertigen Code hochgeladen (LA7706). Anschliessend habe ich in meinem Test-Projekt noch etwas mit den neu gelernten Sachen herumprobiert und die Website somit verbessert. 
 
  &nbsp;
  
@@ -82,7 +82,7 @@ Ich habe aus dem Modul 293 den Auftrag 7707 erledigt über das Thema Urheberrech
 &nbsp;
 
 **Heute habe ich...**     
-Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bewirkt das diese Grau werden. Anschliessend habe ich mit Hilfe der Forms ein Fragen Eingabefeld erstellt welches ich mit einen Button und einem Label versehen habe. Als nächsten wollte ich, das Einträge in mein Forms auch gesendet werden. Dazu habe ich formspree.io verwendet, mir einen Account erstellt und ein neues Projekt erstellt. Ich hatte zuerst Probleme da es mir Fehlermeldungen anzeigte, doch nach ein bischen probieren und googlen habe ich dann verstanden was das Problem war. Nun werden mir Einträge in mein Forms an meine Email geschickt. 
+Ich habe in meinem Testprojekt einen hover Effekt auf die Buttons gemacht. Anschliessend habe ich mithilfe von forms ein Fragen Eingabefeld erstellt, welches ich mit einem Button und einem Label versehen habe. Als nächsten wollte ich, dass Einträge in mein forms auch gesendet werden. Dazu habe ich formspree.io verwendet, mir einen Account erstellt und ein neues Projekt erstellt. Ich hatte zuerst Probleme, da es mir Fehlermeldungen anzeigte, doch nach ein bisschen probieren und googeln habe ich dann verstanden, was das Problem war. Nun werden mir Einträge in mein forms an meine E-Mail geschickt. 
 
 
  &nbsp;
@@ -100,7 +100,7 @@ Ich habe in meinen Testprojekt einen Hover Effekt au die Buttons gemacht der Bew
 &nbsp;
 
 **Heute habe ich...**   
-Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. Diese habe ich zusammen mit einem Auftrag aus dem Modul 293 gemacht und zusätzlich noch Notizen in meine Dokumentation hinzugefügt. Anschliessend habe ich, da ich im Letzen Unterrich Probleme mit einem Auftrag hatte, den Rest der Zeit für das Modul 122 Geutzt. Ich habe Aufträge über die Grundlagen von Powershell bearbeitet und anschliessend ein kleines erstes Skript geschrieben. Ich hatte Anfangs kleine Probleme mit dem Syntax und gewissen Begriffen doch ich wurde schnell damit vertraut. Ich habe die .ps1 (#LA1705.ps1) Datei Hochgeladen, jedoch hat diese keine Metainformationen sondern nur Code.
+Ich habe in einem neuen Projekt eine Navigation bar erstellt über 3 Webseiten. Diese habe ich zusammen mit einem Auftrag aus dem Modul 293 gemacht und zusätzlich noch Notizen in meine Dokumentation hinzugefügt. Anschliessend habe ich, da ich im letzten Unterricht Probleme mit einem Auftrag hatte, den Rest der Zeit für das Modul 122 genutzt. Ich habe Aufträge über die Grundlagen von Powershell bearbeitet und anschliessend ein kleines erstes Skript geschrieben. Ich hatte anfangs kleine Probleme mit dem Syntax und gewissen Begriffen, doch ich wurde schnell damit vertraut. Ich habe die .ps1 (#LA1705.ps1) Datei hochgeladen, jedoch hat diese keine Metainformationen, sondern nur Code.
 
 
  &nbsp;
@@ -118,7 +118,7 @@ Ich habe in einem neuen Projekt eine Navigationbar erstellt über 3 Webseiten. D
 &nbsp;
 
 **Heute habe ich...**     
-Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und schreiben mithilfe eines Skripts. Anfangs hatte ich Probleme die Daten richtig abzufragen und zu speichern, damit diese mit korrektem Layout in die .txt Datei gespeichert werden. Ich habe die Datei (LA1712.ps1) als Code im PowerShell Ordner hochgeladen. Anschliessend habe ich noch die letzen Aufträge des Moduls gemacht. Ich habe mein Skript mit der Windows Aufgabenplanung automatisiert sodass es "theoretisch" jeden Monat einmal ausgeführt wird. Der Letzte Auftrag war ein Theorieauftrag zu Systemsicherheit bei dem ich keine grossen Probleme hatte.
+Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und schreiben mithilfe eines Skripts. Anfangs hatte ich Probleme die Daten richtig abzufragen und zu speichern, damit diese mit korrektem Layout in die .txt Datei gespeichert werden. Ich habe die Datei (LA1712.ps1) als Code im PowerShell Ordner hochgeladen. Anschliessend habe ich noch die letzten Aufträge des Moduls gemacht. Ich habe mein Skript mit der Windows Aufgabenplanung automatisiert, sodass es "theoretisch" jeden Monat einmal ausgeführt wird. Der letzte Auftrag war ein Theorieauftrag zu Systemsicherheit, bei dem ich keine grossen Probleme hatte.
 
 
  &nbsp;
@@ -137,7 +137,7 @@ Den Auftrag 1711 und 1712 gemacht. Im Auftrag 1712 ging es um Dateien lesen und 
 &nbsp;
 
 **Heute habe ich...**          
-Heute habe ich die letzten Aufträge im Modul 293 gemacht in welchen es ums Hosten und Testen von Websites ging. Beim Hosten hatte ich Probleme da der Link im Auftrag mir eine Warnmeldung gab und ich darum einen anderen provider Nutzen wollte / musste. Anschliessend habe ich überlegt was ich für ein LB Projekt machen könnte. Ich habe mir ein Layout überlegt und dieses schon mal grob angefangen als Mockup darzustellen. Weil es sehr schwierig ist gute no Copyright Bilder zu finden bin ich mir bei meinem Thema noch nicht ganz sicher.
+Heute habe ich die letzten Aufträge im Modul 293 gemacht, in welchen es ums Hosten und Testen von Websites ging. Beim Hosten hatte ich Probleme, da der Link im Auftrag mir eine Warnmeldung gab und ich darum einen anderen provider Nutzen wollte / musste. Anschliessend habe ich überlegt, was ich für ein LB Projekt machen könnte. Ich habe mir ein Layout überlegt und dieses schon mal grob angefangen, als Mockup darzustellen. Weil es sehr schwierig ist gute "no Copyright Bilder" zu finden bin ich mir bei meinem Thema noch nicht ganz sicher.
 
 
  &nbsp;
@@ -175,7 +175,7 @@ Ich habe die mit der Umsetzung meiner Website für die LB im Modul 293 angefange
 &nbsp;
 
 **Heute habe ich...**     
-Ich habe mein Website Projekt das ich zeitgleich für das Modul293 gemacht habe grösstenteils Abgeschlossen. Da mir jedoch noch Bilder fehlen, die ich selbst machen werde, habe ich bis jetzt nur Platzhalter als Bilder eingefügt. Die Funktionellen Aspekte der Website sind jedoch fertig und ich habe die Finale Datei als LB293 hochgeladen. Anschliessend habe ich mit dem Portfoliobeitrag im Modul 122 angefangen. In diesem beitrag geht es über Powershell, genauer gesagt beschreibe ich die Funktion von Read und Write, d.h wie man Textdateien Lesen und Schreiben kann. 
+Ich habe mein Website Projekt das ich zeitgleich für das Modul293 gemacht habe, grösstenteils abgeschlossen. Da mir jedoch noch Bilder fehlen, die ich selbst machen werde, habe ich bis jetzt nur Platzhalter als Bilder eingefügt. Die funktionellen Aspekte der Website sind jedoch fertig und ich habe die Finale Datei als LB293 hochgeladen. Anschliessend habe ich mit dem Portfoliobeitrag im Modul 122 angefangen. In diesem Beitrag geht es über Powershell, genauer gesagt beschreibe ich die Funktion von Read und Write, d.h wie man Textdateien Lesen und Schreiben kann. 
 
 &nbsp;
 
@@ -213,10 +213,10 @@ Fynn Huber
 &nbsp;
 
 ### LP-Reflexion   
-In deieser Lernperiode habe ich mir sehr auf HTML und CSS funktioniert, was ich mir auch am Ende der Lernperiode 4 vorgenommen hatte. Ausserdem habe ich auch mit Powershell gearbeitet, meistens Aufträge aus dem Modul. Mit meiner Arbeitsweise in diesem Modul bin ich grösstenteils zufrieden, ich hatte mir vorgenommen Zeitlich kleinere dafür mehr Arbeitspakete abzuschliessen. Leider habe ich auch in dieser Lernperiode immer wieder eins oder zwei Arbeitspackete die ich an gewissen Tagen nicht abschliessen konnte. Dafür habe ich sehr viel gelernt über Web Developing, wenn ich mein erste Website am anfang der LP anschaue und sie mit meinem jetzigen Projekt vergleiche. Insgesamt war das einer der angenehmsten Lernperioden, obwohl ich mich manchmal ein bischen sehr auf die Theorie von HTML und CSS fokussiert habe, anstelle etwas im Bezug auf mein Projekt umzusetzen.
+In dieser Lernperiode habe ich mir sehr auf HTML und CSS funktioniert, was ich mir auch am Ende der Lernperiode 4 vorgenommen hatte. Ausserdem habe ich auch mit Powershell gearbeitet, meistens Aufträge aus dem Modul. Mit meiner Arbeitsweise in diesem Modul bin ich grösstenteils zufrieden, ich hatte mir vorgenommen Zeitlich kleinere dafür mehr Arbeitspakete abzuschliessen. Leider habe ich auch in dieser Lernperiode immer wieder eins oder zwei Arbeitspackete die ich an gewissen Tagen nicht abschliessen konnte. Dafür habe ich sehr viel gelernt über Web Developing, wenn ich mein erste Website am Anfang der LP anschaue und sie mit meinem jetzigen Projekt vergleiche. Insgesamt war das einer der angenehmsten Lernperioden, obwohl ich mich manchmal ein bisschen sehr auf die Theorie von HTML und CSS fokussiert habe, anstelle etwas in Bezug auf mein Projekt umzusetzen.
 
 &nbsp;
 
 ### LA-Reflexion 2023/2024
-In diesem ersten Jahr im Lernatelier habe ich viele Themen gelernt und vertieft, von  Excel zu C#, SQL, Powershell bis We Ddeveloping, alles habe ich auf irgend eine Weise im Lernatelier angeschaut und vertieft. Ich hatte Anfangs schwierigkeiten im Lernatelier effektiv zu Arbeiten da es nicht wie normaler Unterricht war, auch das GitHub repository zu führen fand ich anstrengend. Doch mit der Zeit umso mehr ich mich dazu gezwungen habe desto mehr wurde es zur Routine und normal. Ich habe ausserdem gelernt durch die Online und Distanzunterrichte effizient Zuhause zu arbeiten, ohne mich ablenken zu lassen, was mir Anfangs auch schwer gefallen ist. Nächstes Jahr möchte ich noch besser an meinem Zeitmanagment arbeiten und ein besseres Gefühl dafür bekommen welche Arbeitspakete ich wirklich schaffen kann und welche zu viel Zeit beanspruchen, da ich an gewissen Tagen immer nur 2 von 4 Arbeitspakete geschafft habe. 
-Was ich sehr gut am Lernatelier fand ist, dass man Zeit hatte um an Dingen zu arbeiten, für die man Zeit brauchte. Heisst man konnte entweder nach seinen Ideen etwas Coden oder für ein Modul Aufträge bearbeiten oder an Projektarbeiten arbeiten. In diesen Stunden in denen man Arbeiten muss aber nicht vorgegeben ist an was, kann man gut Aufgaben erledigen oder seine Ideen umsetzen, die sonst die Freizeit in anspruch nehmen würden. Somit finde ich das Lernatelier so wie es momentan ist sehr angenehm und wüsste keine Veränderungen für nächstes Jahr.
+In diesem ersten Jahr im Lernatelier habe ich viele Themen gelernt und vertieft, von  Excel zu C#, SQL, Powershell bis We Ddeveloping, alles habe ich auf irgend eine Weise im Lernatelier angeschaut und vertieft. Ich hatte Anfangs schwierigkeiten im Lernatelier effektiv zu Arbeiten da es nicht wie normaler Unterricht war, auch das GitHub repository zu führen fand ich anstrengend. Doch mit der Zeit umso mehr ich mich dazu gezwungen habe, desto mehr wurde es zur Routine und normal. Ich habe ausserdem gelernt durch die Online und Distanzunterrichte effizient Zuhause zu arbeiten, ohne mich ablenken zu lassen, was mir Anfangs auch schwergefallen ist. Nächstes Jahr möchte ich noch besser an meinem Zeitmanagement arbeiten und ein besseres Gefühl dafür bekommen, welche Arbeitspakete ich wirklich schaffen kann und welche zu viel Zeit beanspruchen, da ich an gewissen Tagen immer nur 2 von 4 Arbeitspakete geschafft habe. 
+Was ich sehr gut am Lernatelier fand ist, dass man Zeit hatte um an Dingen zu arbeiten, für die man Zeit brauchte. Heisst man konnte entweder nach seinen Ideen etwas Coden oder für ein Modul Aufträge bearbeiten oder an Projektarbeiten arbeiten. In diesen Stunden, in denen man Arbeiten muss, aber nicht vorgegeben ist an was, kann man gut Aufgaben erledigen oder seine Ideen umsetzen, die sonst die Freizeit in Anspruch nehmen würden. Somit finde ich das Lernatelier so wie es momentan ist sehr angenehm und wüsste keine Veränderungen für nächstes Jahr.
